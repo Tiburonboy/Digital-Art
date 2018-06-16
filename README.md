@@ -50,4 +50,6 @@ Projects:
 - digitally manipulate photographs to make abstractions  
 - paint blobs  
 
+Some examples:  
+![curves]()
 
