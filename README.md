@@ -13,7 +13,7 @@ http://opencv-python-tutroals.readthedocs.io/en/latest/
 - PIL: [Python Imaging Library](https://en.wikipedia.org/wiki/Python_Imaging_Library) (abbreviated as PIL) (in newer versions known as Pillow) is a free library for the Python programming language that adds support for opening, manipulating, and saving many different image file formats.  
 http://python-pillow.org/  
   
-Python scripts will used to generate the output files as opposed to editing or drawing images with graphic editors such as (GIMP)[https://www.gimp.org/docs/python/index.html].  
+Python scripts will used to generate the output files as opposed to editing or drawing images with graphic editors such as [GIMP](https://www.gimp.org/docs/python/index.html).  
 
 The output file format is JPEG.  [JPEG](https://en.wikipedia.org/wiki/JPEG) is a commonly used method of lossy compression for digital images, particularly for those images produced by digital photography.  Other image formats can easily be used since they are supported by python libraries.   
  
