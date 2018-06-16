@@ -53,4 +53,4 @@ Projects:
 Some examples:  
 ![curves](https://github.com/Tiburonboy/Digital-Art/blob/master/gallery/curves.jpg)
 ![wedges](https://github.com/Tiburonboy/Digital-Art/blob/master/gallery/wedges.jpg)
-![test example](https://github.com/Tiburonboy/Digital-Art/blob/master/gallery/test example.jpg)
+![test example](https://github.com/Tiburonboy/Digital-Art/blob/master/gallery/test_example.jpg)
