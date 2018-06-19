@@ -50,7 +50,7 @@ Projects:
 - digitally manipulate photographs to make abstractions  
 - paint blobs  
 
-Some examples:  
+Here are a few test samples, later I'll include some better efforts:  
 ![curves](https://github.com/Tiburonboy/Digital-Art/blob/master/gallery/curves.jpg)
 ![wedges](https://github.com/Tiburonboy/Digital-Art/blob/master/gallery/wedges.jpg)
 ![test example](https://github.com/Tiburonboy/Digital-Art/blob/master/gallery/test_example.jpg)
